@@ -1,0 +1,1 @@
+SELECT * FROM read_json_auto('./data/311_service_requests.json');
